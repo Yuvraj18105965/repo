@@ -4,3 +4,7 @@ DBMS
 SQL
 Java
 Hibernates
+=======
+Done with minor -v
+Done with major -v
+
